@@ -14,9 +14,10 @@ To use the projects in this repository, you need to use Verilog HDL on your comp
 
 Since this repository contains Verilog source code files and not executable files, you will need to compile them using your Verilog environment.
 
-## Contributing
+## How to Contribute
 
-Feel free to fork this repository, explore the projects, and learn from them. If you have suggestions or improvements, your contributions are welcome. You can copy, modify, or use the examples as a basis for your own projects. Learning and sharing knowledge is highly encouraged.
+Currently, this repository is not open for contributions as it mainly serves as a personal archive of assignments. However, you are encouraged to fork the repository and experiment with the Verilog codes to suit your educational needs.
+You can copy, modify, or use the examples as a basis for your own projects. Learning and sharing knowledge is highly encouraged.
 
 ## No License
 
